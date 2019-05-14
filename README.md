@@ -24,9 +24,9 @@ An 3D printable Alice-like mechanical keyboard
 
 ### Optional components
 
-- 1x M3×8 countersunk screw
-- 1x M3×10 countersunk screw
-- 1x M3×12 countersunk screw
+- 1× M3×8 countersunk screw
+- 1× M3×10 countersunk screw
+- 1× M3×12 countersunk screw
 - 1× M3×16 countersunk screw
 - 1× M3×20 countersunk screw
 
