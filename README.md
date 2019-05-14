@@ -10,23 +10,37 @@ An 3D printable Alice-like mechanical keyboard
 
 ## Components
 
+### Required components
+
 - 64× switches of your choice
 - 4× plate-mounted Costar stabilizers
 - 108-key keycap set
 - 64× diodes
 - Wires
+- 14× M3×16 countersunk screws
+- 2× M3×12 countersunk screws
+
+### Optional components
+
+- 1x M3×8 countersunk screw
+- 1x M3×10 countersunk screw
+- 1x M3×12 countersunk screw
+- 1× M3×16 countersunk screw
+- 1× M3×20 countersunk screw
+
+The optional components are for reinforcing the top halves. They're not required. A proper glue up would be probably enough for the two halves.
 
 ## Wiring diagram
 
-The keyboard is wired in a 5-row, 14-column configuration.
+The keyboard is wired in a 5-row, 14-column configuration. Sorry for starting my row/column index at 1!
 
-(Wiring diagram to follow)
+![](images/wiring-diagram.png)
 
 ## Firmware
 
 The firmware included is for the STM32F103 ["Blue Pill"](https://wiki.stm32duino.com/index.php?title=Blue_Pill) board.
 
-(Firmware files to follow)
+The STM32duino bootloader is not necessary. Simply flash the board using an ST-Link programmer.
 
 ## More info
 
