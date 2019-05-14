@@ -2,9 +2,11 @@
 
 An 3D printable Alice-like mechanical keyboard
 
+![](images/outside.jpg)
+
 ## Layout
 
-![](https://ramonimbao.github.io/images/alice-like-keeb/layout.png)
+![](images/layout.png)
 
 [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/7f17a55de07d88c1f975089b07f053b1)
 
